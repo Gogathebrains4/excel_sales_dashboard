@@ -16,6 +16,8 @@ Average Order-to-Delivery Time: 5.53 days
 Average Customer Spending: $3,520.98
 
 **📊 Dashboard Features**
+https://github.com/Gogathebrains4/excel_sales_dashboard/blob/main/New%20Market%20Sales%20Dashboard.png
+
 Revenue Analysis
 
 Revenue by Occasion
