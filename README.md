@@ -42,7 +42,7 @@ Date Filter (Month-based slicers)
 
 Occasion Filter
 
-🛠 Tools & Techniques Used
+**🛠 Tools & Techniques Used**
 
 Microsoft Excel
 
@@ -59,6 +59,11 @@ Data Modeling
 📂 Project File
 
 [Sales_Analysis_Dashboard.xlsx](https://github.com/Gogathebrains4/excel_sales_dashboard/blob/main/New%20Market%20Sales%20Analysis%20Dashboard.xlsx)
+
+**Datasets**
+https://github.com/Gogathebrains4/excel_sales_dashboard/blob/main/customers.csv
+https://github.com/Gogathebrains4/excel_sales_dashboard/blob/main/orders.csv
+https://github.com/Gogathebrains4/excel_sales_dashboard/blob/main/products.csv
 
 **🎯 Project Objective**
 
