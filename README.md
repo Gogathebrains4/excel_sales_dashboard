@@ -1,23 +1,21 @@
-# excel_sales_dashboard
-
-📊 Interactive Sales Analysis Dashboard (Excel)
+**📊 Sales Analysis Dashboard (Excel)**
 🔍 Overview
 
-This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel. The dashboard provides insights into revenue performance, order trends, customer behavior, and category-level sales distribution.
+This project showcases an interactive Sales Analysis Dashboard developed using Microsoft Excel. The dashboard provides comprehensive insights into revenue performance, order trends, customer purchasing behavior, and category-level sales distribution.
 
-It is designed to support data-driven decision-making through visual analytics and KPI tracking.
+It is designed to support data-driven decision-making through structured KPI monitoring, trend analysis, and dynamic visual reporting.
 
-📈 Key Metrics Displayed
+**📈 Key Metrics**
 
 Total Revenue: $3,520,984.00
 
-Number of Orders: 1000
+Number of Orders: 1,000
 
 Average Order-to-Delivery Time: 5.53 days
 
 Average Customer Spending: $3,520.98
 
-📊 Dashboard Features
+**📊 Dashboard Features**
 Revenue Analysis
 
 Revenue by Occasion
@@ -28,21 +26,21 @@ Revenue by Month
 
 Revenue by Hour (Order Time)
 
-Product Insights
+Product Performance
 
 Top 5 Products by Revenue
 
 Geographic Insights
 
-Top 10 Cities by Orders
+Top 10 Cities by Order Volume
 
-Interactive Filters
+Interactive Controls
 
-Date (Month-based slicers)
+Date Filter (Month-based slicers)
 
-Occasion filter
+Occasion Filter
 
-🛠 Tools Used
+🛠 Tools & Techniques Used
 
 Microsoft Excel
 
@@ -56,23 +54,25 @@ KPI Cards
 
 Data Modeling
 
-📂 File Included
+📂 Project File
 
 Sales_Analysis_Dashboard.xlsx
 
-🎯 Purpose
+**🎯 Project Objective**
 
-This dashboard demonstrates:
+This dashboard demonstrates practical application of:
 
-Business intelligence reporting
+Business Intelligence reporting
 
-KPI tracking
+KPI tracking and performance monitoring
 
-Sales trend analysis
+Sales trend and seasonal analysis
 
-Data visualization using Excel
+Customer behavior insights
+
+Data visualization best practices using Excel
 
 👤 Author
 
-Wisdom Ogbeche
-Data Analyst | Digital Innovation | Public Health Data Systems
+**Wisdom Ogbeche
+Data Analyst **
