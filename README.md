@@ -56,7 +56,7 @@ Data Modeling
 
 📂 Project File
 
-Sales_Analysis_Dashboard.xlsx
+[Sales_Analysis_Dashboard.xlsx](https://github.com/Gogathebrains4/excel_sales_dashboard/blob/main/New%20Market%20Sales%20Analysis%20Dashboard.xlsx)
 
 **🎯 Project Objective**
 
